@@ -2,7 +2,7 @@
 
 using Microsoft.CodeAnalysis.CSharp.Syntax;
 
-using Paraminter.Associators.Models;
+using Paraminter.Arguments.Models;
 
 /// <summary>Represents syntactic data about a C# type argument.</summary>
 public interface ICSharpTypeArgumentData
